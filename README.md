@@ -5,20 +5,20 @@ Pet Adoption and Vaccination Center
 Developed a comprehensive Object-Oriented Programming (OOP) based Pet Adoption Management System using C++. This project involves a detailed and organized approach to manage the various aspects of a pet adoption center, including adopters, pets, volunteers, donations, and vaccination records.
 
 **Key Features and Components**
-1.**Data Management**: Handled various data files such as adopters, adoption records, analytics, donations, pets, users, vaccinations, and volunteers.
-2.**Class Structure**: Designed and implemented multiple classes and their interactions:
-3.**adopter.h** and **adopter.cpp**: Manages adopter information.
-4.**adopterCenter.h** and **adopterCenter.cpp**: Central class for managing the adoption process.
-5.**adoptionRecordManager.h** and **adoptionRecordManager.cpp**: Manages records of adoptions.
-6.**costManager.h** and **costManager.cpp**: Tracks costs associated with pet care and adoption.
-7.**donationManager.h** and **donationManager.cpp**: Manages donations and donor information.
-8.**fileManager.h** and **fileManager.cpp**: Handles file I/O operations.
-9.**menu.h** and **menu.cpp**: User interface for navigating the system.
-10.**pet.h** and **pet.cpp**: Manages pet information.
-11.**termsAndConditions.h** and **termsAndConditions.cpp**: Manages terms and conditions for adopters.
-12.**userManager.h** and **userManager.cpp**: Manages user data and authentication.
-13.**vaccination.h** and **vaccination.cpp**: Tracks pet vaccinations.
-14.**volunteerManager.h** and **volunteerManager.cpp**: Manages volunteer information.
+- **Data Management**: Handled various data files such as adopters, adoption records, analytics, donations, pets, users, vaccinations, and volunteers.
+- **Class Structure**: Designed and implemented multiple classes and their interactions:
+- **adopter.h** and **adopter.cpp**: Manages adopter information.
+- **adopterCenter.h** and **adopterCenter.cpp**: Central class for managing the adoption process.
+- **adoptionRecordManager.h** and **adoptionRecordManager.cpp**: Manages records of adoptions.
+- **costManager.h** and **costManager.cpp**: Tracks costs associated with pet care and adoption.
+- **donationManager.h** and **donationManager.cpp**: Manages donations and donor information.
+- **fileManager.h** and **fileManager.cpp**: Handles file I/O operations.
+- **menu.h** and **menu.cpp**: User interface for navigating the system.
+- **pet.h** and **pet.cpp**: Manages pet information.
+- **termsAndConditions.h** and **termsAndConditions.cpp**: Manages terms and conditions for adopters.
+- **userManager.h** and **userManager.cpp**: Manages user data and authentication.
+- **vaccination.h** and **vaccination.cpp**: Tracks pet vaccinations.
+- **volunteerManager.h** and **volunteerManager.cpp**: Manages volunteer information.
 
 **Technologies Used**
 **Programming Language**: C++
