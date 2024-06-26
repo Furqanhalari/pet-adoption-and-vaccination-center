@@ -21,9 +21,9 @@ Developed a comprehensive Object-Oriented Programming (OOP) based Pet Adoption M
 - **volunteerManager.h** and **volunteerManager.cpp**: Manages volunteer information.
 
 **Technologies Used**
-**Programming Language**: C++
-**Development Environment**: Visual Studio Code
-**Version Control**: Git
+- **Programming Language**: C++
+- **Development Environment**: Visual Studio Code
+- **Version Control**: Git
 
 **Achievements**
 - Successfully implemented a modular and scalable system.
