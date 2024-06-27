@@ -1,0 +1,4 @@
+101,billu,cat,10,abc,M,1
+102,rani,cat,12,xyz,M,0
+103,puppy,dog,5,cvb,F,1
+104,my,pet,10,fgh,M,0
